@@ -1,1 +1,13 @@
-# riuzya01
+<h1 align="center">Olá, eu me chamo Kaique</h1>
+<h3 align="center">Sou apaixonado por computadores e tenho muito interesse em saber como eles funcionam.</h3>
+
+- 🌱 I’m currently learning **C e Python**
+
+- 📫 How to reach me **kaiquefernandomatos2004@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
